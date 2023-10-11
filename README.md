@@ -8,5 +8,4 @@ I am Passionate about data science and machine learning. Enjoys analyzing data t
 ## Skills and Experience
 Skills: Python / Machine learning /SQL/Probability and Statistics/Calculus/Linear Algebra/power Bi/Spss/Matlab
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tillyshan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Modhuka Paranagama/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
